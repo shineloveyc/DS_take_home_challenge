@@ -1,6 +1,6 @@
 # DS_take_home_challenge
 Coding for Data Science Take Home Challenge
-1.	Conversion Rate
+1.	[Conversion Rate](https://github.com/shineloveyc/DS_take_home_challenge/tree/main/conversion_rate)
 2.	Spanish Translation A/B Test
 3.	Employee Retention
 4.	Identifying Fraudulent Activities
